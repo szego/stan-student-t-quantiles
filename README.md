@@ -30,7 +30,7 @@ missing one key detail.
 
 The approximation for `Q(z)` consists of two separate pieces: a power
 series expansion that is accurate for small `z` and a different
-asymptotic series that is accurate for large `z`. In the `df =4` case
+asymptotic series that is accurate for large `z`. In the `df = 4` case
 considered in the paper, the authors used the inner approximation when
 `|z| < 4` and the outer approximation when `|z| >= 4`, but did not
 suggest where to switch between the two approximations for other values
